@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Testimonial-portfolio/static/css/main.1160e5b9.chunk.css",
+    "main.js": "/Testimonial-portfolio/static/js/main.0eb164c7.chunk.js",
+    "main.js.map": "/Testimonial-portfolio/static/js/main.0eb164c7.chunk.js.map",
+    "runtime-main.js": "/Testimonial-portfolio/static/js/runtime-main.79a1ca35.js",
+    "runtime-main.js.map": "/Testimonial-portfolio/static/js/runtime-main.79a1ca35.js.map",
+    "static/css/2.65627c1f.chunk.css": "/Testimonial-portfolio/static/css/2.65627c1f.chunk.css",
+    "static/js/2.e03af71e.chunk.js": "/Testimonial-portfolio/static/js/2.e03af71e.chunk.js",
+    "static/js/2.e03af71e.chunk.js.map": "/Testimonial-portfolio/static/js/2.e03af71e.chunk.js.map",
+    "static/js/3.cfb0f023.chunk.js": "/Testimonial-portfolio/static/js/3.cfb0f023.chunk.js",
+    "static/js/3.cfb0f023.chunk.js.map": "/Testimonial-portfolio/static/js/3.cfb0f023.chunk.js.map",
+    "index.html": "/Testimonial-portfolio/index.html",
+    "static/css/2.65627c1f.chunk.css.map": "/Testimonial-portfolio/static/css/2.65627c1f.chunk.css.map",
+    "static/css/main.1160e5b9.chunk.css.map": "/Testimonial-portfolio/static/css/main.1160e5b9.chunk.css.map",
+    "static/js/2.e03af71e.chunk.js.LICENSE.txt": "/Testimonial-portfolio/static/js/2.e03af71e.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Testimonial-portfolio/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79a1ca35.js",
+    "static/css/2.65627c1f.chunk.css",
+    "static/js/2.e03af71e.chunk.js",
+    "static/css/main.1160e5b9.chunk.css",
+    "static/js/main.0eb164c7.chunk.js"
+  ]
+}
