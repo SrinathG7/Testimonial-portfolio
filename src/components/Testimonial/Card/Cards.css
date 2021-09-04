@@ -1,0 +1,19 @@
+.profile
+{
+        
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        color: gray;
+        
+          
+      
+}
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+  .profile {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  }
+}
